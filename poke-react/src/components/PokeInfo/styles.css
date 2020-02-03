@@ -1,8 +1,11 @@
 .pokeInfoContainer{
+
     background: yellow;
-    width:70%;
-    margin-left: 30%;
-    height: 200px;
+    width:90%;
+    margin-top: 1%;
+    margin-right: 2%;
+    margin-left: 2%;
+    height: 100%;
     border-radius: 25px;
     line-height: 100px;
 }
@@ -10,19 +13,30 @@
 .pokeNombreContainer{
     background: red;
     display: inline-block;
-    width: 50%;
+    width: 33%;
+    height: auto;
     font-weight: bold;
-    border-bottom-left-radius: 25px;
-    border-top-left-radius: 25px;
+    
 }
 
 .pokeTipoContainer{
     background: green;
     display: inline-block;
     font-weight: bold;
-    width: 50%;
+    width: 33%;
     color:rgb(71, 71, 71);
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
     /* border-bottom-right-radius: 25px;
     border-top-right-radius: 25px; */
     
+}
+
+.pokeListContainer{
+    width: 33%;
+    background: blue;
+    display: inline-block;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    height: 700%;
 }

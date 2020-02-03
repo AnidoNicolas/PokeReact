@@ -1,0 +1,10 @@
+.pokeBannerContainer{
+    background: greenyellow;
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 100px;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+}
