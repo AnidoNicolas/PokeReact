@@ -1,0 +1,28 @@
+.pokeInfoContainer{
+    background: yellow;
+    width:70%;
+    margin-left: 30%;
+    height: 200px;
+    border-radius: 25px;
+    line-height: 100px;
+}
+
+.pokeNombreContainer{
+    background: red;
+    display: inline-block;
+    width: 50%;
+    font-weight: bold;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+}
+
+.pokeTipoContainer{
+    background: green;
+    display: inline-block;
+    font-weight: bold;
+    width: 50%;
+    color:rgb(71, 71, 71);
+    /* border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px; */
+    
+}
